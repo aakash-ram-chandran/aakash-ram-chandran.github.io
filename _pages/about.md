@@ -30,11 +30,13 @@ Hi, I’m Aakash Ram Chandran, a `Machine Learning Engineer` based in Hamburg. I
 
 I have optimized models for embedded systems—including deployments on `NVIDIA Jetson Orin`and tackle challenges in sensor fusion and edge computing using parallel programming tools like `CUDA`, `OpenMP`, and `MPI`.
 
+View my [CV](/cv/), [Projects](/projects/), [Blogs](/blog/)
+
+## More About My Work Interests
+
 My work in `reinforcement learning` has addressed real-world problems, such as jobshop scheduling and robotic pick-and-place tasks, and I maintain a strong interest in related fields like `imitation learning`, `interactive imitation learning`, and `inverse reinforcement learning`.
 
-Additionally, I work with `ROS2` and `NVIDIA Isaac Sim` to create `digital twins` for robots, enabling simulation-based path planning and workflow efficiency analysis. I leverage Isaac Sim to generate `high-quality synthetic datasets` with annotations using `path tracing` for rendering the image, significantly reducing the need for extensive real-world images to train object detection and instance segmentation models through transfer learning. While these techniques might initially seem research-oriented, I have consistently implemented them in production settings to deliver practical, efficient solutions.
+Additionally, I work with `ROS2` and `NVIDIA Isaac Sim` to create `digital twins` for robots, enabling simulation-based path planning and workflow efficiency analysis. I leverage Isaac Sim to generate `high-quality synthetic datasets` with annotations using `path tracing` for rendering the images, significantly reducing the need for extensive real-world images to train object detection and instance segmentation models through `transfer learning`. While these techniques might initially seem research-oriented, I have consistently implemented them in production settings to deliver practical, efficient solutions.
 
 I am passionate about continuous learning and developing innovative solutions at the intersection of technology and practical applications. Please take a moment to explore my journey and projects.
-
-View my [CV](/cv/)
 ---
