@@ -26,10 +26,14 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I’m Aakash Ram Chandran, a Machine Learning Engineer based in Hamburg. I specialize in computer vision and machine learning, with hands-on experience in designing and deploying deep learning models that work with object detcetion, instance segmentation and much more.
+Hi, I’m Aakash Ram Chandran, a `Machine Learning Engineer` based in Hamburg. I specialize in `computer vision` and `machine learning`, with hands-on experience training and deploying `deep learning models` for tasks such as `object detection` and `instance segmentation`.
 
-I’ve optimized models for embedded systems such as NVIDIA Jetson Orin. I enjoy tackling challenges in sensor fusion and edge computing using parallel programming tools like CUDA, OpenMP and MPI.
+I have optimized models for embedded systems—including deployments on `NVIDIA Jetson Orin`and tackle challenges in sensor fusion and edge computing using parallel programming tools like `CUDA`, `OpenMP`, and `MPI`.
 
-I’m passionate about learning new skills and developing innovative solutions. I love working at the intersection of technology and real-world applications, and I’m excited to share my journey and projects with you. 
+My work in `reinforcement learning` has addressed real-world problems, such as jobshop scheduling and robotic pick-and-place tasks, and I maintain a strong interest in related fields like `imitation learning`, `interactive imitation learning`, and `inverse reinforcement learning`.
 
-Please look here for my [cv](/cv/)
+Additionally, I work with `ROS2` and `NVIDIA Isaac Sim` to create `digital twins` for robots, enabling simulation-based path planning and workflow efficiency analysis. I leverage Isaac Sim to generate `high-quality synthetic datasets` with annotations using `path tracing` for rendering the image, significantly reducing the need for extensive real-world images to train object detection and instance segmentation models through transfer learning. While these techniques might initially seem research-oriented, I have consistently implemented them in production settings to deliver practical, efficient solutions.
+
+I am passionate about continuous learning and developing innovative solutions at the intersection of technology and practical applications. Please take a moment to explore my journey and projects.
+
+View my CV
