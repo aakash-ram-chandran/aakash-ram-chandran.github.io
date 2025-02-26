@@ -7,8 +7,8 @@ subtitle: Focus on things you can control
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: False # crops the image to make it circular
-  more_info: >
+  image_circular: false # crops the image to make it circular
+  more_info: |
     <p>Machine Learning Engineer</p>
     <p>Hamburg, Germany</p>
 
@@ -28,7 +28,7 @@ latest_posts:
 
 Hi, I’m Aakash Ram Chandran, a `Machine Learning Engineer` based in Hamburg. I specialize in `computer vision` and `machine learning`, with hands-on experience training and deploying `deep learning models` for tasks such as `object detection` and `instance segmentation`.
 
-I have optimized models for embedded systems—including deployments on `NVIDIA Jetson Orin`and tackle challenges in sensor fusion and edge computing using parallel programming tools like `CUDA`, `OpenMP`, and `MPI`.
+I have optimized models for embedded systems—including deployments on `NVIDIA Jetson Orin` and tackle challenges in sensor fusion and edge computing using parallel programming tools like `CUDA`, `OpenMP`, and `MPI`.
 
 View my [CV](/cv/), [Projects](/projects/), [Blogs](/blog/)
 
