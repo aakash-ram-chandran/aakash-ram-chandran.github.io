@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: |
+  more_info: >
     <p>Machine Learning Engineer</p>
     <p>Hamburg, Germany</p>
 
@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I’m Aakash Ram Chandran, a `Machine Learning Engineer` based in Hamburg. I specialize in `computer vision` and `machine learning`, with hands-on experience training and deploying `deep learning models` for tasks such as `object detection` and `instance segmentation`.
+Hi, I am Aakash Ram Chandran, a `Machine Learning Engineer` based in Hamburg. I specialize in `computer vision` and `machine learning`, with hands-on experience training and deploying `deep learning models` for tasks such as `object detection` and `instance segmentation`.
 
 I have optimized models for embedded systems—including deployments on `NVIDIA Jetson Orin`and tackle challenges in sensor fusion and edge computing using parallel programming tools like `CUDA`, `OpenMP`, and `MPI`.
 
@@ -39,4 +39,3 @@ My work in `reinforcement learning` has addressed real-world problems, such as j
 Additionally, I work with `ROS2` and `NVIDIA Isaac Sim` to create `digital twins` for robots, enabling simulation-based path planning and workflow efficiency analysis. I leverage Isaac Sim to generate `high-quality synthetic datasets` with annotations using `path tracing` for rendering the images, significantly reducing the need for extensive real-world images to train object detection and instance segmentation models through `transfer learning`. While these techniques might initially seem research-oriented, I have consistently implemented them in production settings to deliver practical, efficient solutions.
 
 I am passionate about continuous learning and developing innovative solutions at the intersection of technology and practical applications. Please take a moment to explore my journey and projects.
----
