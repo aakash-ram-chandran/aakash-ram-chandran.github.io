@@ -36,4 +36,5 @@ Additionally, I work with `ROS2` and `NVIDIA Isaac Sim` to create `digital twins
 
 I am passionate about continuous learning and developing innovative solutions at the intersection of technology and practical applications. Please take a moment to explore my journey and projects.
 
-View my CV
+View my [CV](/cv/)
+---
