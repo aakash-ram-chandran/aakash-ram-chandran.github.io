@@ -1,11 +1,11 @@
 {
-  "Personal Info": {
+  "basics": {
     "name": "Aakash Ram Chandran",
     "label": "Machine Learning Engineer",
     "image": "",
     "email": "aakashramchandran@gmail.de",
     "url": "https://aakash-ram-chandran.github.io",
-    "summary": "I am a Machine Learning Engineer specializing in computer vision, deep learning, and embedded systems. I have successfully deployed advanced ML solutions in production environments and thrive on solving real-world challenges with innovative approaches.",
+  "summary": "I am a Machine Learning Engineer specializing in computer vision, deep learning, and embedded systems. I have successfully deployed advanced ML solutions in production environments and thrive on solving real-world challenges with innovative approaches.",
     "location": {
       "city": "Hamburg",
       "country": "Germany"
@@ -23,9 +23,47 @@
       "name": "Bahead GmbH",
       "position": "Machine Learning Engineer",
       "url": "https://bahead.de/",
-      "startDate": "2024-05-01",
+      "startDate": "05-2024",
       "endDate": "present",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "summary": "Work on developing, deploying, and optimizing machine learning models for various robotics applications.",
+      "highlights": ["develop machine learning models", 
+                      "deploy machine learning models", 
+                      "optimize machine learning models"]
+    },
+    {
+      "name": "Fraunhofer Institute for Integrated Circuits IIS",
+      "position": "Research Assistant",
+      "url": "https://www.iis.fraunhofer.de/en.html",
+      "startDate": "08-2023",
+      "endDate": "04-2024",
+      "summary": "",
+      "highlights": ["Relativity"]
+    },
+    {
+      "name": "Advanced Production Technologies Schaeffler AG",
+      "position": "Intern",
+      "url": "https://www.schaeffler.de/de/",
+      "startDate": "10-2022",
+      "endDate": "03-2023",
+      "summary": "",
+      "highlights": ["Relativity"]
+    },
+    {
+      "name": "Computer Networks and Communication Systems, FAU Erlangen-Nürnberg",
+      "position": "Student Research Assistant",
+      "url": "https://www.cs7.tf.fau.eu/",
+      "startDate": "01-2022",
+      "endDate": "09-2022",
+      "summary": "",
+      "highlights": ["Relativity"]
+    },
+    {
+      "name": "Chair of Autonomous Systems and Mechatronics, FAU Erlangen-Nürnberg",
+      "position": "Student Research Assistant",
+      "url": "https://www.asm.tf.fau.de/en/",
+      "startDate": "08-2021",
+      "endDate": "03-2022",
+      "summary": "",
       "highlights": ["Relativity"]
     }
   ],
